@@ -93,5 +93,3 @@ A seleção temática e o caderno pertencem ao autor do projeto. A organização
 
 *Gifted Hands* faz parte do contexto de estudo pessoal. Seu PDF integral não é publicado. Este repositório contém links, notas e sínteses próprias, sem transferir direitos de obras de terceiros. Não se afirma que registros de catálogo importados equivalem ao texto completo de um livro.
 > Caderno temático sobre Ben Carson com NotebookLM, voltado à aprendizagem ativa e ao pensamento crítico. Reúne cinco fontes abertas, três testes reais de prompts com análise das respostas, registro de dificuldades, miniguia com glossário e mapa de conhecimento. O projeto diferencia relatos pessoais, fatos institucionais e evidências científicas.
-
-A entrega na plataforma DIO é uma etapa separada da publicação deste repositório.
